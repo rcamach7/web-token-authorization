@@ -1,10 +1,6 @@
 GET http://localhost:3000/
 
 ###
-POST http://localhost:3000/protected
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluIiwicGFzc3dvcmQiOiIkMmEkMTAkVjYzMU9mU3J2Z090cFc3Q1JkWmtWLlJuZU9rOE90UFBVLjJOR0tiV1lYRS44LklFT3BWc3EiLCJpYXQiOjE2NDc1NjczODR9.FyeExos1D6OlrlhrOh7yhBZS63-EQAChZIto0lb7Y1A
-
-###
 POST http://localhost:3000/log-in
 Content-Type: application/json
 
